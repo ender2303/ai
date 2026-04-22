@@ -41,7 +41,7 @@ A powerful, type-safe AI SDK for building AI-powered applications.
 - **Tree-shakeable adapters** - Import only what you need for smaller bundles
 - **Multimodal content support** - Send images, audio, video, and documents
 - **Image generation** - Generate images with OpenAI DALL-E/GPT-Image and Gemini Imagen
-- Chat completion, streaming, and agent loop strategies
+- Chat completion, streaming, and agent loop strategies.
 - Headless chat state management with adapters (SSE, HTTP stream, custom)
 - Isomorphic type-safe tools with server/client execution
 - **Enhanced integration with TanStack Start** - Share implementations between AI tools and server functions
